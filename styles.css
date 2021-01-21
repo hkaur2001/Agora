@@ -102,11 +102,13 @@ input{
     flex: 1;
     text-align: center;
   background-color: #099dfd;
+  box-shadow: 2px 2px 4px #e0dbdb;
+
 }
 
 #right-side{
     flex: 1;
-    
+    box-shadow: 3px 2px 4px #cec6c6;
 }
 
 
